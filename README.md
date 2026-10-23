@@ -58,3 +58,6 @@ Natürlich hab ich auch ein wenig getestet
 Terminal.Gui ist mir immer noch so verwirrend, aber ich glaube ich habe es jetzt mehr in griff. Ich hab diesmal ein Zahlen Guesser gemacht. Die Bibliothek hab ich gestartet, aber ich lade es nur nächste Woche auf, den ich bei meiner Hausaufgabe dran arbeiten möchte. Theoretisch habe ich schon Ziel 3 fertig! Ich kann es als JSON speichern. Ich lade einer als Beispiel hoch.
 
 <img width="848" height="429" alt="image" src="https://github.com/user-attachments/assets/8cce7ac5-2077-4bdf-95c6-f28798591a57" />
+
+## Hausaufgabe
+- [ ] Eine neue Funktion zu meiner Bibliothek, die erlaubt, neue Daten hinzu zu fügen (z.B. Im JSON file, der ich hier hochgeladen habe, wird es erneut geändert mit diese neue Daten)
