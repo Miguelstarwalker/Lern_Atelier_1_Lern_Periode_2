@@ -61,3 +61,10 @@ Terminal.Gui ist mir immer noch so verwirrend, aber ich glaube ich habe es jetzt
 
 ## Hausaufgabe
 - [ ] Eine neue Funktion zu meiner Bibliothek, die erlaubt, neue Daten hinzu zu fügen (z.B. Im JSON file, der ich hier hochgeladen habe, wird es erneut geändert mit diese neue Daten)
+
+## Reflexion
+
+## Planung 30.10.2026
+- [ ] Muss noch denken
+- [ ] Muss noch denken
+- [ ] Muss noch denken
