@@ -50,7 +50,6 @@ Natürlich hab ich auch ein wenig getestet
 <img width="856" height="455" alt="image" src="https://github.com/user-attachments/assets/3f444954-9e1d-4675-81bf-24eb1b69d701" />
 
 ## Planung 23.10.2026
-- [ ] weiteres herumgespiele mit Terminal.Gui
-- [ ] (variable, muss gesetzt werden, wenn ich ein festes Projekt habe)
-- [ ] (variable, muss gesetzt werden, wenn ich ein festes Projekt habe)
-- [ ] (variable, muss gesetzt werden, wenn ich ein festes Projekt habe)
+- [ ] weiteres herumgespiele mit Terminal.Gui um zu lernen, wie es eigentlich funktioniert. (Mini Projekt, wie letztes mal)
+- [ ] Ideen für meine Bibliothek konkretisieren, was ich eigentlich möchte (auf mein Word Document)
+- [ ] Meinen ersten Bibliothek Eintrag führen um zu testen, wie es aussieht und wie es funktioniert
