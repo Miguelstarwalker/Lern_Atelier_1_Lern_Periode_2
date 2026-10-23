@@ -50,6 +50,11 @@ Natürlich hab ich auch ein wenig getestet
 <img width="856" height="455" alt="image" src="https://github.com/user-attachments/assets/3f444954-9e1d-4675-81bf-24eb1b69d701" />
 
 ## Planung 23.10.2026
-- [ ] weiteres herumgespiele mit Terminal.Gui um zu lernen, wie es eigentlich funktioniert. (Mini Projekt, wie letztes mal)
-- [ ] Ideen für meine Bibliothek konkretisieren, was ich eigentlich möchte (auf mein Word Document)
-- [ ] Meinen ersten Bibliothek Eintrag führen um zu testen, wie es aussieht und wie es funktioniert
+- [x] weiteres herumgespiele mit Terminal.Gui um zu lernen, wie es eigentlich funktioniert. (Mini Projekt, wie letztes mal)
+- [x] Ideen für meine Bibliothek konkretisieren, was ich eigentlich möchte (auf mein Word Document)
+- [x] Meinen ersten Bibliothek Eintrag führen um zu testen, wie es aussieht und wie es funktioniert
+
+## Reflexion 23.10.2026
+Terminal.Gui ist mir immer noch so verwirrend, aber ich glaube ich habe es jetzt mehr in griff. Ich hab diesmal ein Zahlen Guesser gemacht. Die Bibliothek hab ich gestartet, aber ich lade es nur nächste Woche auf, den ich bei meiner Hausaufgabe dran arbeiten möchte. Theoretisch habe ich schon Ziel 3 fertig! Ich kann es als JSON speichern. Ich lade einer als Beispiel hoch.
+
+<img width="848" height="429" alt="image" src="https://github.com/user-attachments/assets/8cce7ac5-2077-4bdf-95c6-f28798591a57" />
