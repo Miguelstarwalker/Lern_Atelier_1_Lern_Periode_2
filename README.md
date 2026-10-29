@@ -60,11 +60,12 @@ Terminal.Gui ist mir immer noch so verwirrend, aber ich glaube ich habe es jetzt
 <img width="848" height="429" alt="image" src="https://github.com/user-attachments/assets/8cce7ac5-2077-4bdf-95c6-f28798591a57" />
 
 ## Hausaufgabe
-- [ ] Eine neue Funktion zu meiner Bibliothek, die erlaubt, neue Daten hinzu zu fügen (z.B. Im JSON file, der ich hier hochgeladen habe, wird es erneut geändert mit diese neue Daten)
+- [x] Eine neue Funktion zu meiner Bibliothek, die erlaubt, neue Daten hinzu zu fügen (z.B. Im JSON file, der ich hier hochgeladen habe, wird es erneut geändert mit diese neue Daten)
 
 ## Reflexion
-
+<img width="522" height="447" alt="image" src="https://github.com/user-attachments/assets/8ab168a3-0db4-4d59-b33b-1d140900a82e" />
+Ganzer Programm wird hinzugefügt
 ## Planung 30.10.2026
-- [ ] Muss noch denken
-- [ ] Muss noch denken
-- [ ] Muss noch denken
+- [ ] Gestaltung Feld vom Game window
+- [ ] characters.json von DataEditor können ihre Anpassungen auch zu characters.json von Game transferieren
+- [ ] Funktionales Nützen von Daten (z.B. character.json) in eine provisorische Version vom Game
