@@ -68,6 +68,17 @@ Ganzer Programm wird hinzugefügt
 
 
 ## Planung 30.10.2026
-- [ ] Gestaltung Feld vom Game window
-- [ ] characters.json von DataEditor können ihre Anpassungen auch zu characters.json von Game transferieren
-- [ ] Funktionales Nützen von Daten (z.B. character.json) in eine provisorische Version vom Game
+- [x] Gestaltung Feld vom Game window
+- [x] characters.json von DataEditor können ihre Anpassungen auch zu characters.json von Game transferieren
+- [x] Funktionales Nützen von Daten (z.B. character.json) in eine provisorische Version vom Game
+
+## Reflexion
+
+
+## Hausaufgaben + Planung 6.11.2026
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+
