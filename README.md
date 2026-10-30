@@ -65,6 +65,8 @@ Terminal.Gui ist mir immer noch so verwirrend, aber ich glaube ich habe es jetzt
 ## Reflexion
 <img width="522" height="447" alt="image" src="https://github.com/user-attachments/assets/8ab168a3-0db4-4d59-b33b-1d140900a82e" />
 Ganzer Programm wird hinzugefügt
+
+
 ## Planung 30.10.2026
 - [ ] Gestaltung Feld vom Game window
 - [ ] characters.json von DataEditor können ihre Anpassungen auch zu characters.json von Game transferieren
