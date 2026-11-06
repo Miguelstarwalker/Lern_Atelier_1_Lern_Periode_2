@@ -72,13 +72,14 @@ Ganzer Programm wird hinzugefügt
 - [x] characters.json von DataEditor können ihre Anpassungen auch zu characters.json von Game transferieren
 - [x] Funktionales Nützen von Daten (z.B. character.json) in eine provisorische Version vom Game
 
-## Reflexion
-
 
 ## Hausaufgaben + Planung 6.11.2026
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
+- [x] Gemeinsame characters.json für DataEditor und Game eingerichtet
+- [x] Character-Frames für Spieler und Gegner im Battle Simulator gestaltet
+- [x] Gesundheitsfarben von Grün über Blau zu Violett abhängig von HP erstellt
+- [x] Schaden-Animation mit rotem Flash und seitlicher Bewegung eingebaut
+- [x] Grundlage für Dialoge mit Beta-Dialogfeld und dialogue.json vorbereitet
 
+Heute habe ich die Bibliothek mehr mit dem eigentlichen Game verbunden. Es ist hilfreich, dass Änderungen im DataEditor direkt vom Game gelesen werden, weil ich nicht mehr zwei JSON-Dateien pflegen muss. Die Battle Frames machen die HP einfacher sichtbar und das rote Flash beim Schaden gibt dem Kampf mehr Feedback. Terminal.Gui ist noch manchmal schwierig, besonders bei Animationen und Farben, aber ich verstehe besser, wie Views und Daten zusammenarbeiten. Die Dialoge sind noch Beta, aber ich habe jetzt einen Platz und eine Struktur, damit ich später Szenen hinzufügen kann.
+
+<img width="790" height="403" alt="image" src="https://github.com/user-attachments/assets/1e6121c2-2c9d-436a-8951-804cf2d367d1" />
