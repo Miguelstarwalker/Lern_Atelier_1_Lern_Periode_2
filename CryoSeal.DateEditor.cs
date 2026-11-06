@@ -12,7 +12,7 @@ static string FindSourceContentFile()
     for (var folder = new DirectoryInfo(AppContext.BaseDirectory); folder is not null; folder = folder.Parent)
     {
         var candidate = Path.Combine(folder.FullName, "Content", "characters.json");
-        if (File.Exists(candidate) && File.Exists(Path.Combine(folder.FullName, "CryoSeal.DataEditor.csproj")))
+        if (File.Exists(candidate) && File.Exists(Path.Combine(folder.FullName, "CryoSeal.slnx")))
         {
             return candidate;
         }
