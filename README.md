@@ -85,6 +85,15 @@ Heute habe ich die Bibliothek mehr mit dem eigentlichen Game verbunden. Es ist h
 <img width="790" height="403" alt="image" src="https://github.com/user-attachments/assets/1e6121c2-2c9d-436a-8951-804cf2d367d1" />
 
 ## Planung 13.11.2026
-- [ ] Eine Szene planen für den RPG 
-- [ ] Daten updaten und neue hinzufügen beim Editor
-- [ ] Daten analyse als Repetition (was macht was? wie bin ich auf das gekommen?
+- [x] Eine Szene planen für den RPG 
+- [x] Daten updaten und neue hinzufügen beim Editor
+- [x] Daten analyse als Repetition (was macht was? wie bin ich auf das gekommen?
+
+## Reflexion 13.11.2026
+Heute habe ich mich mit dem Aufbau von RPG-Szenen beschäftigt. Ich habe eine Vorlage erstellt, mit der ich später Orte, Charaktere, Gegner und den nächsten Abschnitt einer Szene planen kann. Zudem habe ich wiederholt, wie die Daten vom DataEditor über characters.json ins Game kommen. Die Szenen werden noch nicht automatisch im Game abgespielt, aber die Grundlage dafür ist jetzt vorbereitet.
+
+## Planung 20.11.2026
+- [ ] Eine erste Szene in scenes.json planen: Titel, Ort, Ziel, Charaktere und Gegner eintragen.
+- [ ] Die Szene im Game anzeigen lassen: Szenentitel, Ort und beteiligte Charaktere als Terminal.Gui-Fenster.
+- [ ] Den Übergang von einer Szene zum Battle Simulator programmieren, wenn bei der Szene ein Gegner eingetragen ist.
+- [ ] Einfache Beta-Dialogzeilen aus dialogue.json im DIALOGUE-Feld anzeigen und mit einer Taste zur nächsten Zeile wechseln.
