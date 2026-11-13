@@ -83,3 +83,8 @@ Ganzer Programm wird hinzugefügt
 Heute habe ich die Bibliothek mehr mit dem eigentlichen Game verbunden. Es ist hilfreich, dass Änderungen im DataEditor direkt vom Game gelesen werden, weil ich nicht mehr zwei JSON-Dateien pflegen muss. Die Battle Frames machen die HP einfacher sichtbar und das rote Flash beim Schaden gibt dem Kampf mehr Feedback. Terminal.Gui ist noch manchmal schwierig, besonders bei Animationen und Farben, aber ich verstehe besser, wie Views und Daten zusammenarbeiten. Die Dialoge sind noch Beta, aber ich habe jetzt einen Platz und eine Struktur, damit ich später Szenen hinzufügen kann.
 
 <img width="790" height="403" alt="image" src="https://github.com/user-attachments/assets/1e6121c2-2c9d-436a-8951-804cf2d367d1" />
+
+## Planung 13.11.2026
+- [ ] Eine Szene planen für den RPG 
+- [ ] Daten updaten und neue hinzufügen beim Editor
+- [ ] Daten analyse als Repetition (was macht was? wie bin ich auf das gekommen?
