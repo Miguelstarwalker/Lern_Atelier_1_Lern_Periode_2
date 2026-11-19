@@ -59,10 +59,8 @@ public sealed class BattleWindow : Window
         dialogueFrame.Add(_message);
         Add(dialogueFrame);
 
-        var frostSeal = new Button { Text = "Frost Seal", X = 2, Y = 18 };
-        frostSeal.Accepted += (_, _) => PlayTurn(BattleAction.FrostSeal);
-        var strike = new Button { Text = "Strike", X = 18, Y = 18 };
-        strike.Accepted += (_, _) => PlayTurn(BattleAction.Strike);
+        var frostSeal = CreateActionButton("Frost Seal", 2, BattleAction.FrostSeal);
+        var strike = CreateActionButton("Strike", 18, BattleAction.Strike);
         var quit = new Button { Text = "Quit", X = Pos.AnchorEnd(10), Y = 18 };
         quit.Accepted += (_, _) => App!.RequestStop();
         Add(frostSeal, strike, quit);
@@ -77,6 +75,13 @@ public sealed class BattleWindow : Window
         status = new Label { X = 1, Y = 1, Width = Dim.Fill(2), Height = 4 };
         frame.Add(status);
         return frame;
+    }
+
+    private Button CreateActionButton(string text, int x, BattleAction action)
+    {
+        var button = new Button { Text = text, X = x, Y = 18 };
+        button.Accepted += (_, _) => PlayTurn(action);
+        return button;
     }
 
     private void PlayTurn(BattleAction action)
