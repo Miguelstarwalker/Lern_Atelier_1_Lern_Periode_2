@@ -92,6 +92,10 @@ Heute habe ich die Bibliothek mehr mit dem eigentlichen Game verbunden. Es ist h
 ## Reflexion 13.11.2026
 Heute habe ich mich mit dem Aufbau von RPG-Szenen beschäftigt. Ich habe eine Vorlage erstellt, mit der ich später Orte, Charaktere, Gegner und den nächsten Abschnitt einer Szene planen kann. Zudem habe ich wiederholt, wie die Daten vom DataEditor über characters.json ins Game kommen. Die Szenen werden noch nicht automatisch im Game abgespielt, aber die Grundlage dafür ist jetzt vorbereitet.
 
+##Hausaufgaben-Reflexion 19.11.2026
+
+Heute habe ich den Code im Battle Simulator etwas aufgeräumt. Die Buttons für Frost Seal und Strike hatten fast den gleichen Aufbau. Deshalb habe ich eine Methode erstellt, die einen Action-Button baut und direkt mit der passenden Kampfaktion verbindet. Dadurch ist der Code kürzer und einfacher zu erweitern, falls ich später weitere Moves hinzufüge. Die Funktion des Spiels wurde dabei nicht verändert.
+
 ## Planung 20.11.2026
 - [ ] Eine erste Szene in scenes.json planen: Titel, Ort, Ziel, Charaktere und Gegner eintragen.
 - [ ] Die Szene im Game anzeigen lassen: Szenentitel, Ort und beteiligte Charaktere als Terminal.Gui-Fenster.
