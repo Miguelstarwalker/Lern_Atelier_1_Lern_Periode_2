@@ -100,4 +100,4 @@ Heute habe ich den Code im Battle Simulator etwas aufgeräumt. Die Buttons für 
 - [ ] Eine erste Szene in scenes.json planen: Titel, Ort, Ziel, Charaktere und Gegner eintragen.
 - [ ] Die Szene im Game anzeigen lassen: Szenentitel, Ort und beteiligte Charaktere als Terminal.Gui-Fenster.
 - [ ] Den Übergang von einer Szene zum Battle Simulator programmieren, wenn bei der Szene ein Gegner eingetragen ist.
-- [ ] Einfache Beta-Dialogzeilen aus dialogue.json im DIALOGUE-Feld anzeigen und mit einer Taste zur nächsten Zeile wechseln.
+- [ ] Special Points System für speziellen Attacken einführen.
