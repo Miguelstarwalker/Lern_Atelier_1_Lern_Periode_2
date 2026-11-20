@@ -97,7 +97,20 @@ Heute habe ich mich mit dem Aufbau von RPG-Szenen beschäftigt. Ich habe eine Vo
 Heute habe ich den Code im Battle Simulator etwas aufgeräumt. Die Buttons für Frost Seal und Strike hatten fast den gleichen Aufbau. Deshalb habe ich eine Methode erstellt, die einen Action-Button baut und direkt mit der passenden Kampfaktion verbindet. Dadurch ist der Code kürzer und einfacher zu erweitern, falls ich später weitere Moves hinzufüge. Die Funktion des Spiels wurde dabei nicht verändert.
 
 ## Planung 20.11.2026
-- [ ] Eine erste Szene in scenes.json planen: Titel, Ort, Ziel, Charaktere und Gegner eintragen.
-- [ ] Die Szene im Game anzeigen lassen: Szenentitel, Ort und beteiligte Charaktere als Terminal.Gui-Fenster.
-- [ ] Den Übergang von einer Szene zum Battle Simulator programmieren, wenn bei der Szene ein Gegner eingetragen ist.
+- [x] Eine erste Szene in scenes.json planen: Titel, Ort, Ziel, Charaktere und Gegner eintragen.
+- [x] Die Szene im Game anzeigen lassen: Szenentitel, Ort und beteiligte Charaktere als Terminal.Gui-Fenster.
+- [x] Den Übergang von einer Szene zum Battle Simulator programmieren, wenn bei der Szene ein Gegner eingetragen ist.
+
+## Reflexion
+Heute habe ich gelernt, wie mehrere Szenen im RPG miteinander verbunden werden können. Nach dem Kampf gegen Robo erscheint jetzt ein Continue-Button und das Game lädt die nächste Szene aus nextSceneId. Ich habe auch eine zweite Szene erstellt, damit der Ablauf getestet werden kann. Dadurch wirkt das Game mehr wie ein zusammenhängendes RPG und nicht nur wie ein einzelner Kampf.
+<img width="842" height="449" alt="image" src="https://github.com/user-attachments/assets/3c0b9ee8-7fbe-4f81-a272-8911bfa7cc99" />
+## Hausaufgaben
 - [ ] Special Points System für speziellen Attacken einführen.
+
+
+## Planung 27.11.2026
+- [ ] Die zweite Szene weiter planen: Ort, Ziel, beteiligte Charaktere und mögliche nächste Szene festlegen.
+- [ ] Eine dritte Szene in scenes.json erstellen und mit nextSceneId an die zweite Szene verbinden.
+- [ ] Für eine Szene erste Beta-Dialogzeilen in dialogue.json schreiben und die Charaktere als Sprecher festlegen.
+- [ ] Die Dialogzeilen im Szenenfenster anzeigen und mit einem Button oder einer Taste zur nächsten Zeile wechseln.
+
